@@ -2,10 +2,10 @@
 
 ## Things to Note
 
-* Each item can have **multiple tags**. For eaxmple you can remember to buy 
-a bunch of broccoli whether you drop by Farm Boy or Food Basics.
+* Each item can have **multiple tags**. For eaxmple you may want to 
+buy a bunch of broccoli either at Farm Boy or Food Basics.
 
-* Checked (completed) items do not disappear. They are greyed out instead.
+* Checked (completed) items do not disappear by default. They are greyed out instead.
 So you don't have to recreate broccoli entry every time.
 
 * You can set up an alarm for each item. So you will be notified to pack some
@@ -60,6 +60,7 @@ You can filter the item list using the menu on the top of the front page
 
 This is designed feature of the app. If you want to remove the item, head
 over to the item details page by tapping the item.
+
 
 ## Contact US
 
