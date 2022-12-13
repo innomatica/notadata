@@ -20,7 +20,7 @@ Tap the plus icon at the bottom. Then a bottom sheet will pop up.
 So you can enter infomation about the item you want to create.
 
 * Use comma to create multiple items at once.
-* Choose as many tags as it suits to your purpose
+* Choose as many tags as it suits your purpose
 * Tap the clock icon to set up a repeatable notification alarm
 
 ![](./res/bottom_sheet.png){: style="width:400px"}
