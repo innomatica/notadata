@@ -54,13 +54,17 @@ You can filter the item list using the menu on the top of the front page
 
 ![](./res/tag_menu.png){: style="width:400px"}
 
-## Q and A
+## Questions and Answers
 
 ### I checked the item. It does not disapper
 
 This is designed feature of the app. If you want to remove the item, head
 over to the item details page by tapping the item.
 
+### Alarm does not work
+
+Go to phone `Settings > Apps > Nota > Notifications` and check if 
+`All Nota notifications` are allowed.
 
 ## Contact US
 
